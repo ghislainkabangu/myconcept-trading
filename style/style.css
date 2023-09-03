@@ -4,7 +4,7 @@ body {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-   
+
 }
 
 section {
@@ -14,7 +14,7 @@ section {
     justify-content: center;
     padding: 30px;
     background-color: rgb(30, 10, 30);
-   border-radius: 15px;
+    border-radius: 15px;
 }
 
 section aside {
@@ -87,10 +87,10 @@ section aside {
         text-transform: uppercase;
     }
 
-    .aside_2 img{
+    .aside_2 img {
         order: 1;
         border-top-left-radius: 10px;
         border-top-right-radius: 10px;
-        
+
     }
 }
